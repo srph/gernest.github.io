@@ -4,7 +4,7 @@ subtitle: Enjoy browsing github wikis offline
 layout: default
 modal-id: 1
 date: 2014-07-18
-img: dreams.png
+img: 06.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
 project-date: April 2014

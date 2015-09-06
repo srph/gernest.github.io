@@ -4,7 +4,7 @@ subtitle: A static website hosting platform
 layout: default
 modal-id: 4
 date: 2014-07-15
-img: treehouse.png
+img: 03.png
 thumbnail: treehouse-thumbnail.png
 alt: image-alt
 project-date: April 2014
