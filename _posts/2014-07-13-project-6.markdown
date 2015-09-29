@@ -1,6 +1,6 @@
 ---
 title: Aurora
-subtitle: Minimalistic social netwprk
+subtitle: Minimalistic social network
 layout: default
 modal-id: 6
 date: 2014-07-15
